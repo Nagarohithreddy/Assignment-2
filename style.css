@@ -1,0 +1,21 @@
+table{
+    table-layout:auto;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th,td,tr{
+    border: 1px solid black;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.timings{
+    background-color: rgb(222, 217, 217);
+}
